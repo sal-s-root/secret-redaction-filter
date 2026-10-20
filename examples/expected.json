@@ -1,0 +1,13 @@
+{
+  "redacted": {
+    "name": "api",
+    "credentials": {
+      "token": "[REDACTED]"
+    },
+    "items": [
+      {
+        "password": "[REDACTED]"
+      }
+    ]
+  }
+}

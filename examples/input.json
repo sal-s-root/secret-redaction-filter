@@ -1,0 +1,13 @@
+{
+  "document": {
+    "name": "api",
+    "credentials": {
+      "token": "example-token"
+    },
+    "items": [
+      {
+        "password": "example"
+      }
+    ]
+  }
+}
